@@ -1,0 +1,37 @@
+/* Somthing else */
+
+div.container div{
+	border : 1px dashed #411;
+	min-height:100px;
+}
+
+div.menu{
+	background-image:url(img/menu.jpeg);
+	background-repeat:repeat-x;
+	min-height:20px;
+	margin:0px auto;
+	
+}
+
+div.menu ul{
+	
+	margin:0px auto;
+	
+}
+
+div.menu li{
+	float:right;
+	list-style-type:none;
+	
+}
+div.menu a{
+	
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#FFFFFF;
+	display:block;
+	padding:10px 10px;
+	direction:rtl;
+	
+}
