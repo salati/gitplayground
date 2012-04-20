@@ -66,7 +66,27 @@ div.image{
 }
 
 div.image:hover{
+	display:block;
+	opacity:1.0;
+	filter:alpha(opacity=100);
 
-opacity:1.0;
-filter:alpha(opacity=100);
+}
+
+h1{
+	color:#CCCCCC;
+	text-transform:capitalize;	
+	text-align:center;
+}
+
+h2{
+	direction:rtl;
+	color:#CCCCCC;
+	font-family:"Arial Black", Gadget, sans-serif;
+	text-align:right;
+	margin-right:40px; 
+		
+}
+
+div.feature{
+	background-image:url("img/featured.png");
 }
