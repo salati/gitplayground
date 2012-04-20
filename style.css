@@ -8,9 +8,9 @@ div.container div{
 
 
 div.container .back{
-	background-image:url("img/slider-left-overlay.png");
+	background-image:url("img/back1.jpg");
 	background-repeat:repeat-y;
-	
+	background:transparent;
 	
 		
 }
@@ -58,3 +58,5 @@ div.img{
 	display:inline;	
 	
 }
+
+div.img
