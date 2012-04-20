@@ -2,7 +2,7 @@
 
 div.container div{
 	border : 1px dashed #411;
-	min-height:100px;
+	min-height:120px;
 	
 }
 
@@ -60,7 +60,7 @@ div.img{
 }
 
 div.imgright{
-	float:left;
+	float:right;
 	margin:100px 100px;
 }
 
@@ -92,7 +92,26 @@ h2{
 		
 }
 
+p{
+	text-align:right;
+	direction:rtl;
+	padding-left:10px;
+	padding-right:10px;
+		
+}
+
 div.feature{
 	background-image:url("img/quote.png");
 	height:300px;
 }
+div.featurebg{
+	background-image:url("img/featured.png");
+		
+}
+div.backpic{
+	background-image:url("img/project-overlay.png");
+	background-repeat:no-repeat;
+	min-height:200px;
+	width: 150px;	
+}
+
