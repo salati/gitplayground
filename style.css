@@ -3,10 +3,21 @@
 div.container div{
 	border : 1px dashed #411;
 	min-height:100px;
+	
 }
 
+
+div.container .back{
+	background-image:url("img/slider-left-overlay.png");
+	background-repeat:repeat-y;
+	
+	
+		
+}
+
+
 div.menu{
-	background-image:url(img/menu.jpeg);
+	background-image:url("img/menu.jpeg");
 	background-repeat:repeat-x;
 	min-height:20px;
 	margin:0px auto;
@@ -15,13 +26,14 @@ div.menu{
 }
 
 div.menu ul{
-	margin:0px auto;
+	margin:0px 60px;
 	
 }
 
 div.menu li{
 	float:right;
 	list-style-type:none;
+	margin-left:10px;
 }
 div.menu a{
 	text-align:center;
@@ -38,4 +50,11 @@ div.menu a{
 div.menuleft{
 	background-image:url(img/menu.jpeg);
 	background-repeat:repeat-x;	
+}
+
+div.img{
+	margin:2px;
+	float:left;
+	display:inline;	
+	
 }
