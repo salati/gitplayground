@@ -10,7 +10,7 @@ div.container div{
 div.container .back{
 	background-image:url("img/back.jpg");
 	background-repeat:repeat-y;
-	background:transparent;
+	
 	
 		
 }
@@ -59,4 +59,14 @@ div.img{
 	
 }
 
-div.img
+div.image{
+	opacity:0.4;
+	filter:alpha(opacity=40);
+	
+}
+
+div.image:hover{
+
+opacity:1.0;
+filter:alpha(opacity=100);
+}
