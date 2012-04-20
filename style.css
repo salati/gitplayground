@@ -59,6 +59,11 @@ div.img{
 	
 }
 
+div.imgright{
+	float:left;
+	margin:100px 100px;
+}
+
 div.image{
 	opacity:0.4;
 	filter:alpha(opacity=40);
@@ -89,4 +94,5 @@ h2{
 
 div.feature{
 	background-image:url("img/quote.png");
+	height:300px;
 }
