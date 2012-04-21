@@ -233,7 +233,8 @@ div.menufooter a:hover{
 p.endfooter{
 	color:#CCCCCC;
 	text-align:left;
-	padding:0px 25px;	
+	padding:0px 25px;
+	font-size:16px;	
 }
 
 p.fonttext{
