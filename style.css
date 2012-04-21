@@ -1,7 +1,7 @@
 /* Somthing else */
 
 div.container div{
-	border : 1px dashed #411;
+	outline:1px dashed #411;
 	min-height:120px;
 	
 }
@@ -198,6 +198,7 @@ div.menufooter{
 	
 	
 }
+
 
 div.menufooter ul{
 	margin:0px 10px;
