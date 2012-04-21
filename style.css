@@ -243,3 +243,19 @@ p.fonttext{
 	
 		
 }
+
+div.transbox{
+	width:80px;
+	height:100px;
+	
+	background-color:#ffffff;
+	border:1px solid black;
+	opacity:0.9;
+	filter:alpha(opacity=900);
+}
+
+div.transbox p{
+	font-weight:bold;
+  	color:#000000;
+}
+
