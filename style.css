@@ -156,10 +156,11 @@ p{
 
 div.feature{
 	background-image:url("img/quote.png");
-	height:300px;
+	min-height:400px;
 }
 div.featurebg{
 	background-image:url("img/featured.png");
+	height:300px;
 		
 }
 div.backpic{
@@ -192,7 +193,7 @@ p.fontfooter{
 
 div.menufooter{
 	background-image:url("img/topbg.png");
-	height:100px;
+	min-height:100px;
 	margin:0px auto;
 	
 	
