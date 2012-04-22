@@ -27,7 +27,7 @@ div.menu{
 }
 
 div.menu ul{
-	margin:0px 60px;
+	margin:0px 40px;
 	
 }
 
@@ -60,9 +60,10 @@ div.menuleft{
 }
 
 div.img{
-	margin:2px;
+	margin-left:40px;
 	float:left;
-	display:inline;	
+	display:inline;
+	padding:8px 2px;	
 	
 }
 
@@ -111,7 +112,7 @@ h1{
 h1.atrribute{
 	margin:20px;
 	text-shadow:1px #FFFF00;
-	margin-left:20px;
+	margin-left:38px;
 		
 }
 
@@ -128,7 +129,7 @@ h2{
 h2.atrribute{
 	padding:30px;
 	text-shadow:1px #FFFF00;
-	margin-right:20px;
+	margin-right:48px;
 	font-size:28px;	
 }
 
@@ -179,7 +180,7 @@ div.backpic a:hover{
 div.topfooter{
 	background-image:url("img/back.jpg");
 	background-repeat:no-repeat;
-	height:250px;
+	height:320px;
 
 }
 
@@ -194,7 +195,7 @@ p.fontfooter{
 
 div.menufooter{
 	background-image:url("img/topbg.png");
-	min-height:100px;
+	height:100px;
 	margin:0px auto;
 	
 	
@@ -240,6 +241,7 @@ p.endfooter{
 p.fonttext{
 	font-size:18px;
 	color:#333333;
+	margin-top:200px;
 	
 		
 }
