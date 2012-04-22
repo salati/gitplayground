@@ -265,3 +265,10 @@ div.transbox p{
   	color:#000000;
 }
 
+p.dir{
+	direction:rtl;
+	text-align:right;
+	
+	
+		
+}
