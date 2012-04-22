@@ -102,7 +102,7 @@ div.image:hover{
 	opacity:1.0;
 	display:block;
 	cursor:default;
-	display:inherit;
+	
 
 }
 
@@ -244,7 +244,7 @@ p.endfooter{
 
 p.fonttext{
 	font-size:18px;
-	color:#333333;
+	
 	margin-top:200px;
 	
 		
