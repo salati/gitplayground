@@ -76,6 +76,7 @@ div.image{
 	opacity:0.8;
 	filter:alpha(opacity=80);
 	
+	
 }
 /* marhale bad pic ha
 div.transbox{
@@ -96,9 +97,12 @@ div.transbox p{
 
 */
 div.image:hover{
+	
 	display:block;
 	opacity:1.0;
-	filter:alpha(opacity=100);
+	display:block;
+	cursor:default;
+	display:inherit;
 
 }
 
