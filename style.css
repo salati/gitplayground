@@ -21,7 +21,7 @@ div.menu{
 	background-repeat:repeat-x;
 	min-height:20px;
 	margin:0px auto;
-	
+	border-radius:10px;
 	
 	
 }
@@ -60,10 +60,11 @@ div.menuleft{
 }
 
 div.img{
-	margin-left:40px;
+	margin-left:20px;
 	float:left;
 	display:inline;
-	padding:8px 2px;	
+	padding:8px 2px;
+	width:120px;	
 	
 }
 
