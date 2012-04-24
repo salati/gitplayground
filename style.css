@@ -174,13 +174,25 @@ div.backpic{
 	background-image:url("img/project-overlay.png");
 	background-repeat:no-repeat;
 	min-height:200px;
-	width: 165px;	
+	width:165px;	
 }
 
 div.backpic a:hover{
 	opacity:0.8;
 	filter:alpha(opacity=80);
 }
+
+div.moveimage{
+	margin-top:6px;
+	margin-left:6px;	
+}
+
+
+div.moveimagelast{
+	margin-top:6px;
+	margin-left:6px;	
+}
+
 
 div.topfooter{
 	background-image:url("img/back.jpg");
